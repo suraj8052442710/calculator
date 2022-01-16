@@ -1,4 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+
+/* This is a multi line comment.
+ * This program is to make a calculator by Suraj.
+ * To do that, Suraj needs to learn teh following things
+ * 1) Variable, Constants
+ * 2) If statement
+ * 3) Loops - While, Do, for 
+ */
 Console.WriteLine("Hello, World!");
 float number = 500;
 string text = "suraj";
