@@ -7,6 +7,7 @@
  * 1) Variable, Constants
  * 2) If statement
  * 3) Loops - While, Do, for 
+ * Please do it before the next session
  */
 Console.WriteLine("Hello, World!");
 float number = 500;
