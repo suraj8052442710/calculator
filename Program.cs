@@ -26,12 +26,14 @@ int a;
 int b;
 int c;
 int d;
+int result;
 
 
 a = 10;
 b = 5;
 c = 12;
 d = 15;
+result = 0;
 
 Console.WriteLine(a * 2);
 Console.WriteLine(a * b);
