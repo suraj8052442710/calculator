@@ -9,7 +9,7 @@
  * 3) Loops - While, Do, for 
  * Please do it before the next session
  */
-Console.WriteLine("Hello, World!");
+/*Console.WriteLine("Hello, World!");
 float number = 500;
 string text = "suraj";
 char letter = 'a';
@@ -21,4 +21,21 @@ float number3 = 1000;
 float result = number / number3;
 Console.WriteLine(result);
  text=Console.ReadLine();
-Console.WriteLine(text);
+Console.WriteLine(text);*/
+int a;
+int b;
+int c;
+int d;
+
+
+a = 10;
+b = 5;
+c = 12;
+d = 15;
+
+Console.WriteLine(a * 2);
+Console.WriteLine(a * b);
+Console.WriteLine(c / b);
+Console.WriteLine(b * d);
+Console.WriteLine(b % a);
+Console.ReadLine();
